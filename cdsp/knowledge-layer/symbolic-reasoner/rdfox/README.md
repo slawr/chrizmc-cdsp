@@ -1,4 +1,3 @@
-
 # RDFox Integration
 
 This folder contains the necessary files to interact with RDFox using the [RDFox adapter](./src/README.md), a high-performance knowledge graph and reasoning engine used in this project.
